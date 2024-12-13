@@ -1,0 +1,5 @@
+train: D:\project\Yolo_train\traffic_light_train\dataset\images\train   # 训练数据集
+val: D:\project\Yolo_train\traffic_light_train\dataset\images\val # 验证数据集
+test: D:\project\Yolo_train\traffic_light_train\dataset\images\test # 测试数据集
+nc: 4 # 分类个数
+names: ['red', 'yellow', 'green', 'off'] # 具体分类
